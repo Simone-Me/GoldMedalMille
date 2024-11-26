@@ -1,5 +1,7 @@
 # Gold Medal Metrics Challenge Project
 
+This is a project of Codecademy.com
+
 ### Overview
 In this project, you will use Spring Data JPA to power an Olympics analytics web app.
 
